@@ -1,2 +1,2 @@
 # LATIHAN_WEB
-LATIHAN_WEB
+latihan_web
